@@ -1,0 +1,22 @@
+* { 
+
+    background-color: antiquewhite;
+}
+
+h1 {
+
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.link,.links {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+.homeimg {
+
+    width: 300px;
+    height: auto;
+}
